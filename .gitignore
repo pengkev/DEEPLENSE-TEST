@@ -1,2 +1,4 @@
 dataset
 dataset_fast_224
+Dataset*
+__pycache__
